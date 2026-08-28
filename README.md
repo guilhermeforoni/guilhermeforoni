@@ -1,72 +1,86 @@
 👋 Hi, I'm Guilherme Foroni
-QA Analyst | Mobile Testing | Software Quality
+QA Analyst | Software Quality | Test Automation
 
-I'm a QA Analyst with experience in software testing, specializing in mobile application testing and quality assurance.
+I'm a QA Analyst with experience in software testing and quality assurance, working in Agile environments and collaborating with development and business teams to ensure software quality.
 
-I have experience working in Agile environments and collaborating with development and business teams to ensure software quality through effective test planning, execution, and defect reporting.
+Throughout my career, I have worked with different types of testing, test analysis, test case design, execution, regression testing, and defect reporting.
+
+Currently, I'm expanding my technical skills in test automation, focusing on modern automation tools and practices.
 
 🧪 QA Skills
 Manual Testing
 Functional Testing
 Regression Testing
 Exploratory Testing
-Mobile Testing
 Test Case Design
+Test Scenario Analysis
 Test Execution
 Bug Reporting
-Test Analysis
+Defect Analysis
 Agile / Scrum
-📱 Mobile Testing
 
-Experience testing mobile applications, focusing on:
+🤖 Test Automation
+I'm currently studying and developing practical skills in test automation, with a focus on:
 
-Functional validation
-User flows
-Regression testing
-Defect identification
-Test scenario creation
-Cross-device validation
-Application quality and usability
+🔹 Playwright
+🔹 Cypress
+API Testing
+Automated Test Design
+Page Object Model
+Test Automation Best Practices
+Git & GitHub
+
+My goal is to progressively apply these technologies to practical QA projects and build a strong automation portfolio.
+
 🛠️ Tools & Technologies
+Testing & QA
 Jira
 Octane
 Mobile Center
+Postman
+Automation
+Playwright
+Cypress
+Version Control
 Git
 GitHub
-📂 QA Portfolio
 
-I'm currently building this repository to document my QA journey and demonstrate my practical knowledge through real-world testing scenarios and projects.
+📂 QA Portfolio
+This repository is being built as a practical QA portfolio, documenting my learning journey and hands-on projects in software testing and test automation.
 
 Projects
 
 🔹 Manual Testing
-Test cases, test scenarios, checklists and bug reports.
+Test cases, test scenarios, checklists, exploratory testing and bug reports.
 
 🔹 API Testing
-API testing projects using Postman.
+API testing projects using Postman, including requests, validations and test scenarios.
 
-🔹 Test Automation
-Automation projects using Selenium.
+🔹 Playwright Automation
+Automated testing projects developed while learning Playwright and modern automation practices.
 
-🔹 Mobile Testing
-Mobile testing scenarios and documentation.
+🔹 Cypress Automation
+Automated testing projects focused on web application testing using Cypress.
 
 📚 Currently Learning
+I'm continuously developing my technical skills in:
 
-I'm continuously developing my skills in:
-
-Test Automation
+Playwright
+Cypress
 API Testing
-Selenium
+Test Automation
+JavaScript / TypeScript
 Git & GitHub
+CI/CD
 Software Quality Engineering
+
 🎯 Career Goal
+My goal is to evolve as a QA professional with strong technical and analytical skills, combining solid software testing fundamentals with test automation.
 
-My goal is to continuously improve my technical and analytical skills in Quality Assurance, expanding my knowledge in test automation and modern software testing practices.
+I'm continuously learning and building practical projects to improve my automation skills and contribute to delivering reliable, high-quality software.
 
-📫 Contact
-
-Feel free to connect with me and follow my QA journey.
+📫 Let's Connect
+I'm always interested in learning, sharing knowledge and connecting with other professionals in the QA and Software Engineering community.
 
 GitHub: github.com/guilhermeforoni
 LinkedIN: linkedin.com/in/guilherme-foroni-andrade-236999b3/
