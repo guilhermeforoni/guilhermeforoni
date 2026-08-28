@@ -8,6 +8,7 @@ Throughout my career, I have worked with different types of testing, test analys
 Currently, I'm expanding my technical skills in test automation, focusing on modern automation tools and practices.
 
 🧪 QA Skills
+
 Manual Testing
 Functional Testing
 Regression Testing
@@ -20,6 +21,7 @@ Defect Analysis
 Agile / Scrum
 
 🤖 Test Automation
+
 I'm currently studying and developing practical skills in test automation, with a focus on:
 
 🔹 Playwright
@@ -33,6 +35,7 @@ Git & GitHub
 My goal is to progressively apply these technologies to practical QA projects and build a strong automation portfolio.
 
 🛠️ Tools & Technologies
+
 Testing & QA
 Jira
 Octane
@@ -46,6 +49,7 @@ Git
 GitHub
 
 📂 QA Portfolio
+
 This repository is being built as a practical QA portfolio, documenting my learning journey and hands-on projects in software testing and test automation.
 
 Projects
