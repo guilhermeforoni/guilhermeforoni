@@ -104,11 +104,7 @@ I'm continuously learning and building practical projects to improve my automati
 
 I'm always interested in learning, sharing knowledge and connecting with other professionals in the QA and Software Engineering community.
 
+[![LinkedIn](<img width="980" height="545" alt="image" src="https://github.com/user-attachments/assets/89b1f6a6-1430-4b5d-a783-e5a479351e55" />)](linkedin.com/in/guilherme-foroni-andrade-236999b3/)
 
-[![GitHub](https://github.com/user-attachments/assets/5b8a4488-787b-4923-a6a8-3dff26eb89d8)](github.com/guilhermeforoni)
-[![GitHub](https://github.com/user-attachments/assets/d7256a8d-7286-420d-8fbd-8b27a19729e1)](linkedin.com/in/guilherme-foroni-andrade-236999b3/)
+[![LinkedIn](https://github.com/user-attachments/assets/d7256a8d-7286-420d-8fbd-8b27a19729e1)](linkedin.com/in/guilherme-foroni-andrade-236999b3/)
 
-
-<img width="96" height="28" alt="image" src="https://github.com/user-attachments/assets/5b8a4488-787b-4923-a6a8-3dff26eb89d8" /> github.com/guilhermeforoni
-
-<img width="91" height="28" alt="image" src="https://github.com/user-attachments/assets/d7256a8d-7286-420d-8fbd-8b27a19729e1" /> linkedin.com/in/guilherme-foroni-andrade-236999b3/
