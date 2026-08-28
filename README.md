@@ -1,4 +1,5 @@
 👋 Hi, I'm Guilherme Foroni
+
 QA Analyst | Software Quality | Test Automation
 
 I'm a QA Analyst with experience in software testing and quality assurance, working in Agile environments and collaborating with development and business teams to ensure software quality.
@@ -9,44 +10,72 @@ Currently, I'm expanding my technical skills in test automation, focusing on mod
 
 🧪 QA Skills
 
-Manual Testing
-Functional Testing
-Regression Testing
-Exploratory Testing
-Test Case Design
-Test Scenario Analysis
-Test Execution
-Bug Reporting
-Defect Analysis
-Agile / Scrum
+🔹Manual Testing
+
+🔹Functional Testing
+
+🔹Regression Testing
+
+🔹Exploratory Testing
+
+🔹Test Case Design
+
+🔹Test Scenario Analysis
+
+🔹Test Execution
+
+🔹Bug Reporting
+
+🔹Defect Analysis
+
+🔹Agile / Scrum
+
 
 🤖 Test Automation
 
 I'm currently studying and developing practical skills in test automation, with a focus on:
 
-🔹 Playwright
-🔹 Cypress
-API Testing
-Automated Test Design
-Page Object Model
-Test Automation Best Practices
-Git & GitHub
+🔸 Playwright
+
+🔸 Cypress
+
+🔹API Testing
+
+🔹Automated Test Design
+
+🔹Page Object Model
+
+🔹Test Automation Best Practices
+
+🔹Git & GitHub
+
 
 My goal is to progressively apply these technologies to practical QA projects and build a strong automation portfolio.
 
 🛠️ Tools & Technologies
 
 Testing & QA
+
 Jira
+
 Octane
+
 Mobile Center
+
 Postman
+
 Automation
+
 Playwright
+
 Cypress
+
 Version Control
+
 Git
+
 GitHub
+
 
 📂 QA Portfolio
 
@@ -74,6 +103,7 @@ Cypress
 API Testing
 Test Automation
 JavaScript / TypeScript
+Node.js
 Git & GitHub
 CI/CD
 Software Quality Engineering
