@@ -55,17 +55,26 @@ My goal is to progressively apply these technologies to practical QA projects an
 🛠️ Tools & Technologies
 
 Testing & QA
-Jira
-Octane
-Mobile Center
-Postman
-Automation
-Playwright
-Cypress
-Version Control
-Git
-GitHub
 
+Jira
+
+Octane
+
+Mobile Center
+
+Postman
+
+Automation
+
+Playwright
+
+Cypress
+
+Version Control
+
+Git
+
+GitHub
 
 📂 QA Portfolio
 
@@ -86,25 +95,38 @@ Automated testing projects developed while learning Playwright and modern automa
 Automated testing projects focused on web application testing using Cypress.
 
 📚 Currently Learning
+
 I'm continuously developing my technical skills in:
 
 Playwright
+
 Cypress
+
 API Testing
+
 Test Automation
+
 JavaScript / TypeScript
+
 Node.js
+
 Git & GitHub
+
 CI/CD
+
 Software Quality Engineering
 
+
 🎯 Career Goal
+
 My goal is to evolve as a QA professional with strong technical and analytical skills, combining solid software testing fundamentals with test automation.
 
 I'm continuously learning and building practical projects to improve my automation skills and contribute to delivering reliable, high-quality software.
 
 📫 Let's Connect
+
 I'm always interested in learning, sharing knowledge and connecting with other professionals in the QA and Software Engineering community.
 
 GitHub: github.com/guilhermeforoni
+
 LinkedIN: linkedin.com/in/guilherme-foroni-andrade-236999b3/
