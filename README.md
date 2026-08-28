@@ -104,6 +104,6 @@ I'm continuously learning and building practical projects to improve my automati
 
 I'm always interested in learning, sharing knowledge and connecting with other professionals in the QA and Software Engineering community.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](linkedin.com/in/guilherme-foroni-andrade-236999b3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/guilherme-foroni-andrade-236999b3/)
 
 
