@@ -104,6 +104,7 @@ I'm continuously learning and building practical projects to improve my automati
 
 I'm always interested in learning, sharing knowledge and connecting with other professionals in the QA and Software Engineering community.
 
+<img width="91" height="28" alt="image" src="https://github.com/user-attachments/assets/d7256a8d-7286-420d-8fbd-8b27a19729e1" />
 GitHub: github.com/guilhermeforoni
 
 LinkedIN: linkedin.com/in/guilherme-foroni-andrade-236999b3/
