@@ -52,29 +52,6 @@ I'm currently studying and developing practical skills in test automation, with 
 
 My goal is to progressively apply these technologies to practical QA projects and build a strong automation portfolio.
 
-🛠️ Tools & Technologies
-
-Testing & QA
-
-Jira
-
-Octane
-
-Mobile Center
-
-Postman
-
-Automation
-
-Playwright
-
-Cypress
-
-Version Control
-
-Git
-
-GitHub
 
 📂 QA Portfolio
 
