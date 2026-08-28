@@ -55,25 +55,15 @@ My goal is to progressively apply these technologies to practical QA projects an
 🛠️ Tools & Technologies
 
 Testing & QA
-
 Jira
-
 Octane
-
 Mobile Center
-
 Postman
-
 Automation
-
 Playwright
-
 Cypress
-
 Version Control
-
 Git
-
 GitHub
 
 
