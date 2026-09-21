@@ -31,15 +31,16 @@ Analista de Qualidade de Software com experiência em estratégias de testes man
 | Projeto | Tecnologia | Descrição |
 | :--- | :--- | :--- |
 | ⚡ **[Playwright API Automation](https://github.com/guilhermeforoni/playwright-api-automation)** | Playwright, TS, Faker.js, GitHub Actions | Suíte completa de testes de API REST (CRUD completo), autenticação JWT, massa de dados dinâmica e pipeline CI/CD na nuvem. |
-| 🖥️ **[Playwright UI Automation](https://github.com/guilhermeforoni/playwright-automation)** | Playwright, TS, Page Object Model | Automação End-to-End (E2E) de interface de utilizador estruturada com o padrão POM, fixtures e seletores resilientes. |
+| 🖥️ **[Playwright UI Automation](https://github.com/guilhermeforoni/playwright-automation)** | Playwright, TypeScript, POM | Automação End-to-End (E2E) de interface de utilizador estruturada com o padrão Page Object Model (POM), fixtures e seletores resilientes. |
+| 🌲 **[Cypress E2E Testing](https://github.com/guilhermeforoni/cypress-automation)** | Cypress, JavaScript, Custom Commands | Testes automatizados de interface E2E focados em cenários críticos de utilizador, validações de elementos e comandos customizados. |
 
 ---
 
 ### 🧪 Competências em QA
 
 - **Garantia de Qualidade:** Testes Funcionais, Regressão, Exploratórios, Análise de Casos de Teste e Report de BUGS.
-- **Automação de API:** Validação de Contrato, Autenticação Bearer Token (JWT), Encadeamento de Requisições e Códigos HTTP.
-- **Boas Práticas:** Page Object Model (POM), Massa de Dados Dinâmica, Testes Independentes e CI/CD.
+- **Automação UI & API:** Padrão Page Object Model (POM), Custom Commands, Validação de Contrato, Autenticação Bearer Token (JWT) e Códigos HTTP.
+- **Boas Práticas:** Massa de Dados Dinâmica (`@faker-js/faker`), Testes Independentes e Integração Contínua (CI/CD) via GitHub Actions.
 
 ---
 
