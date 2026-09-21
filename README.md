@@ -16,8 +16,8 @@ Analista de Qualidade de Software com experiência em estratégias de testes man
 
 **Testes de API & Utilitários:**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Faker.js](https://img.shields.io/badge/Faker.js-green?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 **DevOps & Ferramentas:**
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
