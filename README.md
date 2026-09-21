@@ -1,109 +1,49 @@
-👋 Hi, I'm Guilherme Foroni
+# 👋 Olá, eu sou o Guilherme Foroni
+### QA Analyst | Software Quality Engineer | Test Automation
 
-QA Analyst | Software Quality | Test Automation
+Analista de Qualidade de Software com experiência em estratégias de testes manuais e foco em **Automação de Testes (UI e API REST)**. Atuo na prevenção de defeitos, análise de requisitos e criação de pipelines de Integração Contínua (CI/CD) para garantir a entrega de software resiliente e de alta performance.
 
-I'm a QA Analyst with experience in software testing and quality assurance, working in Agile environments and collaborating with development and business teams to ensure software quality.
+---
 
-Throughout my career, I have worked with different types of testing, test analysis, test case design, execution, regression testing, and defect reporting.
+### 🛠️ Tecnologias & Ferramentas
 
-Currently, I'm expanding my technical skills in test automation, focusing on modern automation tools and practices.
+**Automação & Linguagens:**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-🧪 QA Skills
+**Testes de API & Utilitários:**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Faker.js](https://img.shields.io/badge/Faker.js-green?style=for-the-badge)
 
-🔹Manual Testing
+**DevOps & Ferramentas:**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-🔹Functional Testing
+---
 
-🔹Regression Testing
+### 🚀 Projetos em Destaque
 
-🔹Exploratory Testing
+| Projeto | Tecnologia | Descrição |
+| :--- | :--- | :--- |
+| ⚡ **[Playwright API Automation](https://github.com/guilhermeforoni/playwright-api-automation)** | Playwright, TS, Faker.js, GitHub Actions | Suíte completa de testes de API REST (CRUD completo), autenticação JWT, massa de dados dinâmica e pipeline CI/CD na nuvem. |
+| 🖥️ **[Playwright UI Automation](https://github.com/guilhermeforoni/playwright-automation)** | Playwright, TS, Page Object Model | Automação End-to-End (E2E) de interface de utilizador estruturada com o padrão POM, fixtures e seletores resilientes. |
 
-🔹Test Case Design
+---
 
-🔹Test Scenario Analysis
+### 🧪 Competências em QA
 
-🔹Test Execution
+- **Garantia de Qualidade:** Testes Funcionais, Regressão, Exploratórios, Análise de Casos de Teste e Report de BUGS.
+- **Automação de API:** Validação de Contrato, Autenticação Bearer Token (JWT), Encadeamento de Requisições e Códigos HTTP.
+- **Boas Práticas:** Page Object Model (POM), Massa de Dados Dinâmica, Testes Independentes e CI/CD.
 
-🔹Bug Reporting
+---
 
-🔹Defect Analysis
+### 📫 Vamos conversar?
 
-🔹Agile / Scrum
-
-
-🤖 Test Automation
-
-I'm currently studying and developing practical skills in test automation, with a focus on:
-
-🔸 Playwright
-
-🔸 Cypress
-
-🔹API Testing
-
-🔹Automated Test Design
-
-🔹Page Object Model
-
-🔹Test Automation Best Practices
-
-🔹Git & GitHub
-
-
-My goal is to progressively apply these technologies to practical QA projects and build a strong automation portfolio.
-
-
-📂 QA Portfolio
-
-This repository is being built as a practical QA portfolio, documenting my learning journey and hands-on projects in software testing and test automation.
-
-Projects
-
-🔹 Manual Testing
-Test cases, test scenarios, checklists, exploratory testing and bug reports.
-
-🔹 API Testing
-API testing projects using Postman, including requests, validations and test scenarios.
-
-🔹 Playwright Automation
-Automated testing projects developed while learning Playwright and modern automation practices.
-
-🔹 Cypress Automation
-Automated testing projects focused on web application testing using Cypress.
-
-📚 Currently Learning
-
-I'm continuously developing my technical skills in:
-
-Playwright
-
-Cypress
-
-API Testing
-
-Test Automation
-
-JavaScript / TypeScript
-
-Node.js
-
-Git & GitHub
-
-CI/CD
-
-Software Quality Engineering
-
-
-🎯 Career Goal
-
-My goal is to evolve as a QA professional with strong technical and analytical skills, combining solid software testing fundamentals with test automation.
-
-I'm continuously learning and building practical projects to improve my automation skills and contribute to delivering reliable, high-quality software.
-
-📫 Let's Connect
-
-I'm always interested in learning, sharing knowledge and connecting with other professionals in the QA and Software Engineering community.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/guilherme-foroni-andrade-236999b3/)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-foroni-andrade-23699b3/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.foroni@gmail.com)
